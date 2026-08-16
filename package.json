@@ -1,0 +1,1 @@
+{ "name": "dsh-code-review", "version": "0.1.0", "description": "Pre-commit polish for coding agents: strict code review, test-case generation, README/changelog/commit-message drafting — the highest-frequency thing a coding harness does.", "peerDependencies": { "@deepseek-ai/dsh-mcp-client": "*" }, "license": "MIT" }
